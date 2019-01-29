@@ -3,4 +3,3 @@ def square_array(array)
     array << number ** 2
 end
   # your code here
-
