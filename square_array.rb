@@ -1,7 +1,10 @@
+# collection = [1,2,3,4]
+
 def square_array(array)
+  array_new = []
   array.each do |number|
     array_new << number ** 2
-    array = []
-end
+  end
+
 end
   # your code here
